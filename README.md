@@ -6,6 +6,14 @@ This application helps recruiters and job seekers analyze resumes against job de
 
 ---
 
+# 📄 AI Resume Screening System
+
+## 🚀 Live Demo
+
+🔗 https://ai-resume-screening-system-8e5pndymstpzawrcysnwiv.streamlit.app/
+
+An AI-powered Resume Screening and ATS Score Analyzer built using Python, Machine Learning, NLP, and Streamlit.
+
 ## 🚀 Features
 
 ✅ Upload Resume PDF
